@@ -128,8 +128,8 @@ You can contribute by:
 👨‍💻 Author
 
 **Vaibhav Pandey**  
-Computer Science & Engineering Student
-BMS Insitute of Technology & Management
+Computer Science & Engineering Student-
+BMS Insitute of Technology & Management-
 Defence Technology & Aerospace Enthusiast
 
 📜 License
