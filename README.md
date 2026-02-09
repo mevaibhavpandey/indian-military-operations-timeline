@@ -130,7 +130,6 @@ You can contribute by:
 **Vaibhav Pandey**  
 Computer Science & Engineering Student  
 BMS Institute of Technology & Management
-
 Defence Technology & Aerospace Enthusiast  
 
 📜 License
