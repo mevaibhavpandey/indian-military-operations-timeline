@@ -128,7 +128,7 @@ You can contribute by:
 👨‍💻 Author
 
 **Vaibhav Pandey**  
-Computer Science & Engineering Student  
+Computer Science & Engineering Student
 BMS Institute of Technology & Management
 Defence Technology & Aerospace Enthusiast  
 
